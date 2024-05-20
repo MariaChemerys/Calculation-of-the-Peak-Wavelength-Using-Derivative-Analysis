@@ -24,6 +24,13 @@ The graph that illustrates this relationship at a constant temperature (the blac
 
 The global maximum of this function occurs at the peak wavelength λ<sub>max</sub>. To develop an algorithm for its computation, I analyzed the derivative of the spectral power density function with respect to wavelength. I equated it to zero to find the peak wavelength because this is where the global maximum of this function occur. The calculations that have led me to the formula of computing the peak wavelength are provided below:
 
+<p align="center">
+<img src="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Calculations%20for%20computing%20the%20peak%20wavelength%20part%201.png?raw=true" width="600" height=auto />
+</p>
+
+<p align="center">
+<img src="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Calculations%20for%20computing%20the%20peak%20wavelength%20part%202.png?raw=true" width="600" height=auto />
+</p>
 
   
 <h2>Technologies Used</h2>
